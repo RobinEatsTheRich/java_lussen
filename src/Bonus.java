@@ -10,10 +10,10 @@ public class Bonus {
         // In de code staan op verschillende plekken comments tussen "/*...*/" als hint wat je moet doen
 
 
-        HashSet<Integer> secretnumber = randomnumbergenerator();
-        String stringnumber = setToStringConverter(secretnumber);
-        System.out.println(stringnumber);
-        feedback(/*vul hier het juiste argument in*/);
+//        HashSet<Integer> secretnumber = randomnumbergenerator();
+//        String stringnumber = setToStringConverter(secretnumber);
+//        System.out.println(stringnumber);
+//        feedback(/*vul hier het juiste argument in*/);
 
     }
 
